@@ -1,5 +1,7 @@
-Anything at 25:00, a.k.a Millennium(too lazy to rename org knowing I'll have to update the local_manifests)
+Anything at 25:00 - DEPRECATED
 ---
+
+Moved to : https://github.com/MillenniumOSS
 
 stub readme
 
